@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="center">
-<img src="https://res.cloudinary.com/kisaragiry/image/upload/v1661079193/raneblog.com/Untitled_64_o5gmom.png" width="100" />
+<img src="https://res.cloudinary.com/kisaragiry/image/upload/v1661079193/raneblog.com/Untitled_64_o5gmom.png" width="200" />
 </div>
 
 This is `Rane`. <br>
@@ -13,7 +13,7 @@ I also go by the name `Kisaragi` in Japanese contexts.
 
 👩‍💻 Fields Of Interest: 
 BASE: Machine Learning, Statistics, Neuroscience
-CURIOSITY: IOT, Agriculture
+CURIOSITY: IoT, Agriculture
 
 💬 Programming Languages: 
 Python                ███████████████████░░░░░
