@@ -1,16 +1,31 @@
 ### Hi there 👋
 
-<!--
-**kisaragiRY/kisaragiRY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<img src="https://res.cloudinary.com/kisaragiry/image/upload/v1661079193/raneblog.com/Untitled_64_o5gmom.png" width="100" />
+</div>
 
-Here are some ideas to get you started:
+This is `Rane`. I also go by the name `Kisaragi` in Japanese contexts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+```text
+⌚︎ Time Zone: Asia/Tokyo
+👩‍💻 Working field
+Machine Learning
+Statistics
+Neuroscience
+
+💬 Programming Languages: 
+Python                ███████████████████░░░░░
+HTML/CSS              █████████████░░░░░░░░░░░
+R                     ███████████░░░░░░░░░░░░░
+JavaScript            █████████░░░░░░░░░░░░░░░
+Bash                  ██████░░░░░░░░░░░░░░░░░░
+
+🔥 Editors: 
+VS Code
+
+💻 Operating System: 
+Mac
+Linux        
+
+```
