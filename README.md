@@ -11,8 +11,9 @@ I also go by the name `Kisaragi` in Japanese contexts.
 ```text
 ⌚︎ Time Zone: Asia/Tokyo
 
-👩‍💻 Working field: 
-Machine Learning, Statistics, Neuroscience
+👩‍💻 Fields Of Interest: 
+BASE: Machine Learning, Statistics, Neuroscience
+CURIOSITY: IOT, Agriculture
 
 💬 Programming Languages: 
 Python                ███████████████████░░░░░
